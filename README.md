@@ -11,8 +11,7 @@
 ![status](https://img.shields.io/badge/status-reproducible-success)
 
 A consulting-style analytics project demonstrating the full **Python + SQL +
-Power BI + Excel** stack, built for the kind of retail client work done at
-**KPMG (Digital Lighthouse)** and **Deloitte**.
+Power BI + Excel** stack, built for the kind of retail client work done 
 
 **Data:** real public retail order dataset — **5,901 order-lines · 1,755 SKUs ·
 2019–2020 · 4 regions**.
@@ -55,9 +54,6 @@ Power BI + Excel** stack, built for the kind of retail client work done at
 
 ## 📊 Visuals
 
-![ABC x XYZ inventory matrix](images/abc_xyz_matrix.png)
-![Demand forecast](images/forecast_demand.png)
-![Returns by category](images/return_by_category.png)
 
 ---
 
