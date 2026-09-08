@@ -1,0 +1,18 @@
+sub_category,category,revenue,profit,margin_pct,units_sold
+Copiers,Technology,59736.0,42775.0,71.6,142
+Accessories,Technology,121859.0,25268.0,20.7,1748
+Phones,Technology,196564.0,22309.0,11.3,1908
+Paper,Office Supplies,99359.0,21068.0,21.2,3068
+Binders,Office Supplies,174978.0,17885.0,10.2,3670
+Chairs,Furniture,181946.0,13407.0,7.4,1288
+Appliances,Office Supplies,80305.0,13167.0,16.4,1050
+Storage,Office Supplies,150290.0,13133.0,8.7,1821
+Furnishings,Furniture,92405.0,7951.0,8.6,2130
+Art,Office Supplies,50763.0,3636.0,7.2,1779
+Envelopes,Office Supplies,16542.0,3509.0,21.2,463
+Labels,Office Supplies,19397.0,2937.0,15.1,811
+Fasteners,Office Supplies,15205.0,598.0,3.9,540
+Machines,Technology,91988.0,38.0,0.0,250
+Bookcases,Furniture,57404.0,-381.0,-0.7,471
+Supplies,Office Supplies,36721.0,-1654.0,-4.5,408
+Tables,Furniture,119294.0,-11092.0,-9.3,736

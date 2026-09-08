@@ -1,0 +1,5 @@
+region,revenue,profit,margin_pct,return_rate_pct
+West,522291.0,67846.0,13.0,9.9
+East,449960.0,52865.0,11.7,2.8
+Central,341008.0,27450.0,8.0,2.2
+South,251497.0,26393.0,10.5,2.2
